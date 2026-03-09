@@ -6,7 +6,11 @@ My research interest includes generative models and image/video enhancement. I h
 
 See more on [my homepage](https://eric-hao.github.io). ![](https://komarev.com/ghpvc/?username=Eric-Hao)
 
-### News
+## News
+
+<span class='anchor' id='news'></span>
+# News
+- *2026.02*: Two papers are accepted by CVPR 2026.
 - *2025.05*: One paper is accepted by ICML 2025.
 - *2024.12*: One paper is accepted by AAAI 2025.
 - *2024.07*: Two papers are accepted by ECCV 2024.
