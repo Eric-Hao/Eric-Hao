@@ -8,8 +8,7 @@ See more on [my homepage](https://eric-hao.github.io). ![](https://komarev.com/g
 
 ## News
 
-<span class='anchor' id='news'></span>
-# News
+
 - *2026.02*: Two papers are accepted by CVPR 2026.
 - *2025.05*: One paper is accepted by ICML 2025.
 - *2024.12*: One paper is accepted by AAAI 2025.
